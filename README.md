@@ -46,11 +46,22 @@ Also in my challenge have I been working with models. Right now I am mainly focu
   
 _Grade - Beginning_
 
- ## Learning Outcome 3: Reliability and transparency
+## Learning Outcome 3: Reliability and transparency
+ 
+### Self Assessment 1
+So the subject of my project is Brawlhalla. I"ve been playing this game for 5 years, have been coding Brawlhalla bots, repeatedly reporting bugs and I've been very active in the community. Like this you slowly you feel like you understand everything about the game. But still, still I tried to understand more about my domain. This is where I think I really shine. My teacher also thought so.
+
+![image](https://user-images.githubusercontent.com/74303221/196374011-1d087c7b-142f-4837-95e0-d734e7795565.png)
+
+Whilst exploring my domain I found some subjects you can't easily get to know more about. For these subjects I will do an interview with a Brawlhalla modder over discord.
+
+_Grade - Beginning_
 
  ## Learning Outcome 4: Targeted interaction
+???
 
  ## Learning Outcome 5: Future orientation
+Societal Impact?
 
  ## Learning Outcome 6: Investigative problem solving
 
@@ -65,19 +76,38 @@ After this feedback we decided to take out sub questions that don't help answeri
 
 made exercise 2 *Domain Understanding* with Edin K. no feedback yet
 
- ## Learning Outcome 7: Personal leadership
+## Learning Outcome 7: Personal leadership
+
+### Self Assessment 1
+So in the begin of the semester I wanted to create a Brawlhalla bot using reinforcement learning. I couldn't reach the game source code, so to solve it i walso wanted to make an object detection tool. the object detection tool would generate the needed game data in realtime by looking at the the screen. This sounded like such a cool project but after 2/3 weeks of working on it I realised it wasn't working out. It was possible to realise but not for me in this given time with my experience. Here's a comment from my teacher about tihe subject
+
+![image](https://user-images.githubusercontent.com/74303221/196378763-87e7fb76-ab57-4a95-be99-a424b485b242.png)
+
+Everyday I am at school ontime. If I'm not I always let my teachers know, as fast as possible, how much later I will be at school. By keeping the teachers up to date with my absence I keep my profesional skills on a high level. Here a few examples.
+
+**Example 1**
+![image](https://user-images.githubusercontent.com/74303221/196382203-e9f4f066-502b-4be4-83e7-d0582896e0c3.png)
+
+**Example 2**
+![image](https://user-images.githubusercontent.com/74303221/196383658-31179b21-2bc2-4546-a530-832d4435e2ce.png)
+
+Absence is just a part of the profesional skills. Also do i try to communicate with the teachers alot to make sure everything is going alright / i understand everything correctly 
+
+**Example 1**
+![image](https://user-images.githubusercontent.com/74303221/196383371-5fbd8c71-2c0d-430e-badc-aff00cc6c12a.png)
+
+**Example 2**
+![image](https://user-images.githubusercontent.com/74303221/196383535-02da7b80-bf58-4c3b-ad60-b6a9c0b2db62.png)
+
+**Example 3**
+![image](https://user-images.githubusercontent.com/74303221/196383736-0eed21de-2040-40a8-a840-4e419f02d231.png)
+
+If i keep it up like it is going now I believe I will get a good grade for this learning outcome
+
+_Grade - Advanced_
+
 
  ## Learning Outcome 8: Internship Preparation
-
-# Retrospective
-Retrospect (only in the final version) (~200 words)
-What do you think of the course in general, and your role in it. Also feel free to elaborate on the things that you "would do differently next time" as this implies experience in the subject and insight in your learning.
-
-# Conclusion
-Conclusion (only in the final version) (~100 words)
-Why do you believe you have succeeded this course?
-
-# Appendixes
- Add only appendixes that you actually reference in the document. There is no need to add pieces of work to the appendix if they can be found in Canvas already.
+??
 
 
