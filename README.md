@@ -40,6 +40,8 @@ https://www.youtube.com/watch?v=XmNQOSGcrUE
 
 **-------------------------------------**
 
+### Iteration 0
+So for iteration 0 i made an entire document around Object Detection combined with Reinforcement Learning. The idea was to train an object detection model to generate game data, and feed this game data to the reinforcement learning model. The conclusion of iteration 0 was that this might be a risky project since it might take a lot of time to actually realize. I did manage to find a shortcut for the gamedata using object tracking. But this object tracking was detecting moving pixels removing all data from my project entirely. For that reason i decided to just drop the project enitrely.
 
   ## Learning Outcome 1: Data preparation
   
