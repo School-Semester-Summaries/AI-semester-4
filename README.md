@@ -64,17 +64,17 @@ _Grade - Beginning_
 Societal Impact?
 
  ## Learning Outcome 6: Investigative problem solving
-
- ### Exercises
-made exercise 1 *Research Based Learning* with lars esther skylar nikola. In the exercise we prepared a research about reinforcement learning. The main question     was: Is Reinforcement Learning suitable to create practice bots in Brawlhalla? We presented the research to the AI classes and John. As feedback we got the following
-
-**Feedback Nick Welman**
+With a group of students we made the exercise *Research Based Learning* In the exercise we prepared a research about reinforcement learning. The main question     was: Is Reinforcement Learning suitable to create practice bots in Brawlhalla? We presented the research to the AI classes and John. As feedback we got the following
 
 ![image](https://user-images.githubusercontent.com/74303221/189624459-3b53cd5b-7345-4298-bed6-1f5d9c34b18a.png)
 
 After this feedback we decided to take out sub questions that don't help answering the main question. Also did we change 'Sub Quests' to 'Sub Questions'
 
-made exercise 2 *Domain Understanding* with Edin K. no feedback yet
+Also did I make the exercise *Domain Understanding* with another student as comment we got
+
+![image](https://user-images.githubusercontent.com/74303221/196385604-d430d36f-0566-41de-a402-51142032439a.png)
+
+*Grade - Beginning*
 
 ## Learning Outcome 7: Personal leadership
 
@@ -93,13 +93,13 @@ Everyday I am at school ontime. If I'm not I always let my teachers know, as fas
 
 Absence is just a part of the profesional skills. Also do i try to communicate with the teachers alot to make sure everything is going alright / i understand everything correctly 
 
-**Example 1**
+**Example 3**
 ![image](https://user-images.githubusercontent.com/74303221/196383371-5fbd8c71-2c0d-430e-badc-aff00cc6c12a.png)
 
-**Example 2**
+**Example 4**
 ![image](https://user-images.githubusercontent.com/74303221/196383535-02da7b80-bf58-4c3b-ad60-b6a9c0b2db62.png)
 
-**Example 3**
+**Example 5**
 ![image](https://user-images.githubusercontent.com/74303221/196383736-0eed21de-2040-40a8-a840-4e419f02d231.png)
 
 If i keep it up like it is going now I believe I will get a good grade for this learning outcome
