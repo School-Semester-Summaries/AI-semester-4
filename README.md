@@ -61,7 +61,9 @@ _Grade - Beginning_
 ???
 
  ## Learning Outcome 5: Future orientation
-Societal Impact?
+The societal impact of my own challenging is rather low. I'm using multiple models to see which one performs best for my problem. This way I can optimalise performace for my project.
+
+*Grade - Orienting*
 
  ## Learning Outcome 6: Investigative problem solving
 With a group of students we made the exercise *Research Based Learning* In the exercise we prepared a research about reinforcement learning. The main question     was: Is Reinforcement Learning suitable to create practice bots in Brawlhalla? We presented the research to the AI classes and John. As feedback we got the following
