@@ -1,6 +1,6 @@
 # Personal Development Report
 
-Cover page
+![image](https://user-images.githubusercontent.com/74303221/196935746-208ed3ec-cd25-45bd-91c0-7bfcc59b3bf2.png)
 
 ## Table of contents
  - [Preface](#preface)
@@ -18,19 +18,21 @@ Cover page
  - [Appendixes](#appendixes)
   
 # Preface
-Starting this semester I had basically 0 experience with AI. It always looked so interesting to me but I have never done anything with it. Previous semesters I have followed software demand based. I mainly have been making games in my semesters, keeping in mind i have to touch all learning outcomes. For if you're wondering why I didn't choose gamedesign. Gamedesign would look like the perfect specialisation to me, would probably be really fun but I don't think the future in gamedesign is too big.
+Starting this semester I had basically 0 experience with AI. It always looked so interesting to me but I have never done anything with it. Previous semesters I have followed software demand based. I mainly have been making games in my semesters, keeping in mind i have to touch all learning outcomes. For if you’re wondering why I didn’t choose game design. Game design would look like the perfect specialisation to me, would probably be really fun but I don’t think the future in game design is too big.
   
 # Learning Outcomes
-
-### Iteration 0
-So for iteration 0 i made an entire document around Object Detection combined with Reinforcement Learning. The idea was to train an object detection model to generate game data, and feed this game data to the reinforcement learning model. The conclusion of iteration 0 was that this might be a risky project since it might take a lot of time to actually realize. I did manage to find a shortcut for the gamedata using object tracking. But this object tracking was detecting moving pixels removing all data from my project entirely. For that reason i decided to just drop the project enitrely.
+Per learning outcome I wrote a self-assessment and give myself a grade.
 
 ## Learning Outcome 1: Data preparation
   
 ### Self Assessment 1
-Untill now I have prepared a image dataset that I collected myself. To clean the data I have made a small checklist formyself. The steps were as following, Collect Data -> Convert to JPG 24bit-depth -> Resize to 2048x2048. These aren't just random steps, I have found out what to do in a lengthy trial and error process and with some help from Qin (my machine learning teacher). So in the end, I would say I can clean a dataset but in my opinion I'd say I have to do it at least one more time on an actual dataset, not with an image dataset.
-  
+Until now I have prepared an image dataset that I collected myself. To clean the data I have made a small checklist for myself. The steps were as follows, Collect Data -> Convert to JPG 24 bit-depth -> Resize to 2048x2048. These aren’t just random steps, I have found out what to do in a lengthy trial and error process and with some help from Qin (my machine learning teacher). 
+About storing the dataset. Right now its just stored on my pc. Since this didn’t give any problems I don't think it's necessary to make use of any additional cloud storage.
+
+So in the end, I would say I can clean a dataset but in my opinion I’d say I have to do it at least one more time on an actual dataset (not with an image dataset) just to prove the teachers I can really clean a dataset. but what i have done till now isn't bad.
+
 _Grade - Beginning_
+
 
   
 ## Learning Outcome 2: Data analysis & model engineering
