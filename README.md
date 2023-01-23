@@ -33,3 +33,20 @@ This semester I first wanted to create a RL agent that could play Brawlhalla. Th
 
 ## Brawlhalla Legend Classification
 [Click here to go to the Brawlhalla Legend Classification section](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Individual%20Projects/Brawlhalla%20Legend%20Classification)
+
+# Group Project
+In our group project we worked on an application that could predict if there will be a traffic jam on the route you want to drive.
+
+[Click here to go to the Group Project section](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Group%20Project)
+
+# Open Program
+
+# Personal Developement Report
+
+# Side Projects
+
+## Dadabase
+
+## Ranknir
+
+# Epilogue
