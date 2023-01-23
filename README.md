@@ -13,8 +13,8 @@ Here you see an image of a few products I worked on this semester. Going from le
 - [Open Program](#open-program)
 - [Personal Developement Report](#personal-developement-report)
 - [Side Projects](#side-projects)
-  - [Dadabase](#dadabase)
   - [Ranknir](#ranknir) 
+  - [Dadabase](#dadabase)
 - [Epilogue](#epilogue)
 
 # Preface
@@ -45,11 +45,24 @@ In my Open Program I wanted to make progress in my Brawlhalla AI project. I ende
 [Click here to go to the Open Program section](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Open%20Program)
 
 # Personal Developement Report
+This is what the semester is all about. Your PDR is the only thing that will be graded in the end. It's quite a big document. I would recommend downloading it.
+
+[Click here to go to my PDR](https://github.com/School-Semester-Summaries/AI-semester-4/blob/main/PDR_v4.3.pdf)
 
 # Side Projects
-
-## Dadabase
+The side projects are the projects I worked on during the semester but have nothing to do with my semester.
 
 ## Ranknir
+This semester I continued on my discord bot called Ranknir. In short, Ranknir is a discord bot that sends all players in a clan their 1v1 or 2v2 elo. I have built lots of new functionalities for Ranknir and Ranknir is now being used in 10 more servers bringing it to a total of 11 servers.
+
+[Read more about Ranknir](https://github.com/Skyward-Brawlhalla/Ranknir)
+
+## Dadabase
+(Dadabase is also a discord bot) One of the coolest functionalities I've built inside Ranknir, is that you can add console players into the elo lists. This is truly revolutionary since my bot is the only bot that is able to do this. But what is Dadabase, and how is it related? Via Dadabase you can add the players' ID's to a list. When Ranknir updates the elo list, it first asks Dadabase for the console players their ID's. In the end, this gives console players more the feeling that they are part of the clan. (since as if right now Brawlhalla clans are still exclusive to PC).
+
+Dadabase makes it also possible to let Ranknir send the elo list for server members instead of clan members. (Also truly revolutionary) 
+
+[Read more about Dadabase](https://github.com/Skyward-Brawlhalla/Dadabase)
 
 # Epilogue
+Looking back, it was really hard to get started with everything since I had 0 understanding of AI. In the end it was a really cool, fun and usefull semester. AI itself is the future. AI can be used for basically everything and can take over tasks humans usually would do. This means I can automate lots of processes so I don't have to do anything. AI is such a cool semester, don't miss out.
