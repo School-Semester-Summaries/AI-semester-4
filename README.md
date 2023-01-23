@@ -1,7 +1,7 @@
 # Semester 4 - Artificial Intelligence
 Here you see an image of a few products I worked on this semester. Going from left to right, Brawlhalla AI, Cart Pole Game, [Dadabase](https://github.com/Skyward-Brawlhalla/Dadabase), [Ranknir](https://github.com/Skyward-Brawlhalla/Ranknir), Brawlhalla Classification, Jugo Project
 
-![image (1)](https://user-images.githubusercontent.com/74303221/214144301-e5bc05ce-9cef-476e-8499-7650b5c25861.png)
+![image](https://user-images.githubusercontent.com/74303221/214159530-33f816fa-ed6b-4ec2-ada9-9fd0edc40b23.png)
 
 # Table Of Contents
 - [Preface](#preface)
