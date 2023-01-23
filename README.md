@@ -11,10 +11,10 @@ Here you see an image of a few products I worked on this semester. Going from le
   - [Brawlhalla Legend Classification](#brawlhalla-legend-classification)
 - [Group Project](#group-project)
 - [Open Program](#open-program)
-- [Personal Developement Report](personal-developement-report)
-- [Side Projects]
-  - [Dadabase]()
-  - [Ranknir] 
+- [Personal Developement Report](#personal-developement-report)
+- [Side Projects](#side-projects)
+  - [Dadabase](#dadabase)
+  - [Ranknir](#ranknir) 
 - [Epilogue](#epilogue)
 
 # Preface
@@ -40,6 +40,9 @@ In our group project we worked on an application that could predict if there wil
 [Click here to go to the Group Project section](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Group%20Project)
 
 # Open Program
+In my Open Program I wanted to make progress in my Brawlhalla AI project. I ended up making steps into Reinforcement Learning.
+
+[Click here to go to the Open Program section](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Open%20Program)
 
 # Personal Developement Report
 
