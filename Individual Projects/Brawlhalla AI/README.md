@@ -7,8 +7,9 @@
 - [Object Tracking](#object-tracking)
 
 # Preface
-What you will read below is a copy paste from my project description from my [PDR](). Is this not quite what you are looking for?
-- More details about the project -> []()
+What you will read below is a copy paste from my project description from my [Personal Developement Report (PDR)](https://github.com/School-Semester-Summaries/AI-semester-4/blob/main/Personal%20Developement%20Report/PDR_v4.3.pdf). If this is not quite what you are looking for you can check the links below.
+- More details about the Object Detection project -> [Object Detection Document](https://github.com/School-Semester-Summaries/AI-semester-4/blob/main/Individual%20Projects/Brawlhalla%20AI/Object%20Detection%20-%20Challenge%20v1.0.0.pdf)
+- More details about the Object Tracking project -> [Object Tracking Document](https://github.com/School-Semester-Summaries/AI-semester-4/blob/main/Individual%20Projects/Brawlhalla%20AI/Object%20Tracking%20-%20Challenge%20v2.0.0.pdf)
 - Object Tracking code -> [Object Tracking Notebook](https://github.com/School-Semester-Summaries/AI-semester-4/blob/main/Individual%20Projects/Brawlhalla%20AI/object-tracking.ipynb)
 
 ### Reinforcement Learning
