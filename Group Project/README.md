@@ -1,9 +1,5 @@
 # Group Project
 
-## Table of Contents
-- [Preface](#preface)
-- [JUGO Project](#jugo-project)
-
 ## Preface
 What you will read below is a copy paste from my project description from my [Personal Developement Report (PDR)](https://github.com/School-Semester-Summaries/AI-semester-4/blob/main/Personal%20Developement%20Report/PDR_v4.3.pdf). If this is not quite what you are looking for you can check the links below.
 - More details about the JUGO Project -> [JUGO Project Document](https://github.com/School-Semester-Summaries/AI-semester-4/blob/main/Group%20Project/documents/Project%20Plan%20Jugo.pdf)
