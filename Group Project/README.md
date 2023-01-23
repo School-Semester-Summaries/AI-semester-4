@@ -8,7 +8,7 @@
 What you will read below is a copy paste from my project description from my [Personal Developement Report (PDR)](https://github.com/School-Semester-Summaries/AI-semester-4/blob/main/Personal%20Developement%20Report/PDR_v4.3.pdf). If this is not quite what you are looking for you can check the links below.
 - More details about the JUGO Project -> [JUGO Project Document](https://github.com/School-Semester-Summaries/AI-semester-4/blob/main/Group%20Project/documents/Project%20Plan%20Jugo.pdf)
 - Our code -> [Notebooks](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Group%20Project/notebooks)
-- All data we have used -> [data](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Group%20Project/data)
+- All data we have used -> [Data](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Group%20Project/data)
 
 # JUGO Project
 The JUGO project is the group project I worked on this semester. Inside this project, we
