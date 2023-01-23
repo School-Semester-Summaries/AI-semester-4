@@ -1,7 +1,15 @@
 # Brawlhalla AI
-Project shortly described,
-- for more details -> []()
-- for code -> []()
+
+## Table of Contents
+- [Preface](#preface)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Object Detection](#object-detection)
+- [Object Tracking](#object-tracking)
+
+# Preface
+What you will read below is a copy paste from my project description from my [PDR](). Is this not quite what you are looking for?
+- More details about the project -> []()
+- Object Tracking code -> [Object Tracking Notebook](https://github.com/School-Semester-Summaries/AI-semester-4/blob/main/Individual%20Projects/Brawlhalla%20AI/object-tracking.ipynb)
 
 ### Reinforcement Learning
 The idea was to create an application that would be able to play the 2d platform fighting game Brawlhalla. I did research to figure out how I could create the AI and what resources were necessary. This brought me to Reinforcement Learning. Reinforcement learning is a training method that learns by itself how to act, when some kind of input is provided. For example, in my case, reinforcement learning would help my fighting-game-AI how to knock out its opponent, ìf I would give it some game-related-information. But the problem with reinforcement learning was that I had no game-related-information for it to base decisions off. There is of course the code of the game somewhere running in the background wherein all live game information is running, but it was nearly impossible to reach. So I had to find a way to obtain game-related-information in some way, so I have input for my AI. This is where the second part of the project came into play.
