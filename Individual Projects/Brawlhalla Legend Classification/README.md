@@ -20,4 +20,5 @@ like a safe move. School was already using a machine learning algorithm (Support
 Machines) in their pokemon-classification. But to expand the application, I tried out a
 different machine learning algorithm as well (Neirest Neighbours)
 
+## Beloved Reader
 I worked on this project after my semester as well. So for less of a school version of everything you can visit this repository -> [BLC Repo](https://github.com/CrossyChainsaw/Brawlhalla-Legend-Classification)
