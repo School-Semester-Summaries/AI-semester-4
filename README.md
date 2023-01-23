@@ -8,7 +8,7 @@ Here you see an image of a few products I worked on this semester. Going from le
 - [Semester structure](#semester-structure)
 - [Individual Projects](#individual-projects)
   - [Brawlhalla AI](#brawlhalla-ai)
-  - [Brawlhalla Legend Classification]()
+  - [Brawlhalla Legend Classification](#brawlhalla-legend-classification)
 - [Group Project](#group-project)
 - [Open Program](#open-program)
 - [Personal Developement Report](personal-developement-report)
@@ -30,3 +30,6 @@ This semester I first wanted to create a RL agent that could play Brawlhalla. Th
 
 ## Brawlhalla AI
 [Click here to go to the Brawlhalla AI section](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Individual%20Projects/Brawlhalla%20AI)
+
+## Brawlhalla Legend Classification
+[Click here to go to the Brawlhalla Legend Classification section](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Individual%20Projects/Brawlhalla%20Legend%20Classification)
