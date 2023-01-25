@@ -29,9 +29,13 @@ As you can see in the image below, the first 12 weeks is 4 days individual proje
 This semester I first wanted to create a RL agent that could play Brawlhalla. This didn't really work out, so I did something easier. Image classification but with Brawlhalla Legends.
 
 ## Brawlhalla AI
+I tried to create an Reinforcement Learning agent in Brawlhalla. In short, I didn't get that far.
+
 [Click here to go to the Brawlhalla AI section](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Individual%20Projects/Brawlhalla%20AI)
 
 ## Brawlhalla Legend Classification
+Inside this notebook we will classify brawlhalla legend images. Note: Only coded for 4 legends (easy to expand)
+
 [Click here to go to the Brawlhalla Legend Classification section](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Individual%20Projects/Brawlhalla%20Legend%20Classification)
 
 # Group Project
