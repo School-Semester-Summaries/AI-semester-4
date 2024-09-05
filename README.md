@@ -57,7 +57,7 @@ This is what the semester is all about. Your PDR is the only thing that will be 
 The side projects are the projects I worked on during the semester but have nothing to do with my semester.
 
 ## Ranknir
-This semester I continued on my discord bot called Ranknir. In short, Ranknir is a discord bot that sends all players in a clan their 1v1 or 2v2 elo. I have built lots of new functionalities for Ranknir and Ranknir is now being used in 10 more servers bringing it to a total of 11 servers.
+This semester I continued on my discord bot called Ranknir. In short, Ranknir is a discord bot creates a Brawlhalla-leaderboard with a select group of people. The data is obtained using the game's API. I have built lots of new functionalities for Ranknir and Ranknir is now being used in 10 more servers bringing it to a total of 11 servers.
 
 [Read more about Ranknir](https://github.com/Skyward-Brawlhalla/Ranknir)
 
