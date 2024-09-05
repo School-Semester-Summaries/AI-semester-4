@@ -49,7 +49,7 @@ In my Open Program I wanted to make progress in my Brawlhalla AI project. I ende
 [Click here to go to the Open Program section](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Open%20Program)
 
 # Personal Developement Report
-This is what the semester is all about. Your PDR is the only thing that will be graded in the end. It's quite a big document. I would recommend downloading it.
+This is what the semester is all about. Your PDR is the only thing that will be graded in the end. It's quite a big document.
 
 [Click here to go to my PDR](https://github.com/School-Semester-Summaries/AI-semester-4/blob/main/PDR_v4.3.pdf)
 
