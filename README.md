@@ -1,7 +1,8 @@
 # Semester 4 - Artificial Intelligence
 Here you see an image of a few products I worked on this semester. Going from left to right, [Brawlhalla AI](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Individual%20Projects/Brawlhalla%20AI), [Cart Pole Game](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Open%20Program), [Dadabase](https://github.com/Skyward-Brawlhalla/Dadabase), [Ranknir](https://github.com/Skyward-Brawlhalla/Ranknir), [Brawlhalla Legend Classification](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Individual%20Projects/Brawlhalla%20Legend%20Classification), [JUGO Project](https://github.com/School-Semester-Summaries/AI-semester-4/tree/main/Group%20Project)
 
-![image](https://user-images.githubusercontent.com/74303221/214159530-33f816fa-ed6b-4ec2-ada9-9fd0edc40b23.png)
+![image](https://github.com/user-attachments/assets/18e07920-f9c1-4220-8f03-6917e83c4e4a)
+
 
 # Table Of Contents
 - [Preface](#preface)
